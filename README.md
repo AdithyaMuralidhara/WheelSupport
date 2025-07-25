@@ -10,17 +10,18 @@ This repository showcases a **Wheels Assembly** designed entirely in CATIA. The 
 
 
 
-## Design Components
+## Design Components and Features Used
 
-| Part      | Description                                                                 |
-|-----------|-----------------------------------------------------------------------------|
-| **Base**      | Provides the foundational support for the assembly.                          |
-| **Bolt**      | Key fastener joining components together.                                   |
-| **Bush Cap**  | Ensures proper alignment and smooth rotation of the wheel.                  |
-| **Nut**       | Secures the bolt and provides structural stability.                         |
-| **Screw**     | Additional fastener for enhanced fit and mechanical strength.               |
-| **Support**   | Maintains the vertical alignment and supports the wheel structure.          |
-| **Wheel**     | Main rotating component, precisely fitted for smooth movement.              |
+| Part         | Features Used                | Description                                                            |
+|--------------|-----------------------------|------------------------------------------------------------------------|
+| **Base**     | Pad                         | Provides foundational support for the assembly.                        |
+| **Bolt**     | Pad, Groove                 | Key fastener joining components together.                              |
+| **Bush Cap** | Pad                         | Ensures alignment and smooth rotation of the wheel.                    |
+| **Screw**    | Shaft                       | Additional fastener for enhanced fit and mechanical strength.          |
+| **Nut**      | Pad, Pocket, Groove         | Secures the bolt and provides structural stability.                    |
+| **Support**  | Edge Fillet, Pocket, Pad    | Maintains vertical alignment and supports the wheel structure.         |
+| **Wheel**    | Shaft                       | Main rotating
+
 
 *Images and screenshots of each component and the final assembly has been uploaded.*
 
